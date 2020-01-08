@@ -11,7 +11,7 @@ A new Flutter project.
   <img src="https://raw.githubusercontent.com/sagarshende23/flutter_parallax_effect/master/screenshots/4.png" width="280" >
   <img src="https://raw.githubusercontent.com/sagarshende23/flutter_parallax_effect/master/screenshots/5.png" width="280">
   <img src="https://raw.githubusercontent.com/sagarshende23/flutter_parallax_effect/master/screenshots/6.png" width="280">
-  <img src="raw.githubusercontent.com/sagarshende23/flutter_parallax_effect/master/screenshots/7.png" width="280">
+  <img src="https://raw.githubusercontent.com/sagarshende23/flutter_parallax_effect/master/screenshots/7.png" width="280">
   <img src="https://raw.githubusercontent.com/sagarshende23/flutter_parallax_effect/master/screenshots/8.png" width="280">
     <img src="https://raw.githubusercontent.com/sagarshende23/flutter_parallax_effect/master/screenshots/9.png" width="280">
 
