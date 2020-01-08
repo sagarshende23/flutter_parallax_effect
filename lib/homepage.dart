@@ -73,7 +73,7 @@ final parallaxCardItemsList = <ParallaxCardItem>[
   ),
   ParallaxCardItem(
     title: 'Divide',
-    body: 'Ed Shreen',
+    body: 'Ed Sheeran',
     imagePath: 'assets/images/music/album7.png',
   ),
   ParallaxCardItem(
